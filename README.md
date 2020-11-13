@@ -10,7 +10,7 @@
 - 💻 Working with React and NodeJS
 - 📚 Studying a Node, React and React Native
 - 🌌 Enthusiast web & mobile development technologies.
-- 💭 "There’s no shame in admitting what you don’t know. The only shame is pretending you know all the answers."
+- 💭 "There’s no shame in admitting what you don’t know. The only shame is pretending you know all the answers." ― Neil deGrasse Tyson
 
 ### Contacts
 [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Fontes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-fontes-amorim/)](https://www.linkedin.com/in/guilherme-fontes-amorim/) 
