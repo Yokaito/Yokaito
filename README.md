@@ -3,12 +3,12 @@
 
 ### I'm Guilherme Fontes 
 ---
-🌌 Full-Stack | Developer on @Unigran 🏢.
+🌌 Senior Web Developer III | Developer on @Maeztra 🏢.
 
 ### About Me
 ---
-- 💻 Working with React and NodeJS
-- 📚 Studying a Node, React and React Native
+- 💻 Working with VTEX, React/Typescript
+- 📚 Studying a Node, React and VTEX
 - 🌌 Enthusiast web & mobile development technologies.
 - 💭 "There’s no shame in admitting what you don’t know. The only shame is pretending you know all the answers." ― Neil deGrasse Tyson
 
