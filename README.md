@@ -3,7 +3,9 @@
 
 ### I'm Guilherme Fontes 
 ---
-🌌 Senior Web Developer III | Developer on @Maeztra 🏢.
+🌌 Tech Lead | Developer on [@Codeby](https://www.linkedin.com/company/codeby/mycompany/) 🏢.
+
+
 
 ### About Me
 ---
