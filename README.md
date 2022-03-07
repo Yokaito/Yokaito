@@ -3,7 +3,7 @@
 
 ### I'm Guilherme Fontes 
 ---
-🌌 Tech Lead | Developer on [@Codeby](https://www.linkedin.com/company/codeby/mycompany/) 🏢.
+🌌 Tech Lead | Lead on [@Codeby](https://www.linkedin.com/company/codeby/mycompany/) 🏢.
 
 
 
