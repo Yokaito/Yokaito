@@ -9,7 +9,7 @@
 
 ### About Me
 ---
-- 💻 Working with VTEX, React/Typescript
+- 💻 Working with VTEX, NextJs/Typescript/Graphql
 - 📚 Studying a NextJS, React and VTEX
 - 🌌 Enthusiast web & mobile development technologies.
 - 💭 "There’s no shame in admitting what you don’t know. The only shame is pretending you know all the answers." ― Neil deGrasse Tyson
