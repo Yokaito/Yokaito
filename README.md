@@ -9,8 +9,8 @@
 
 ### About Me
 ---
-- 💻 Working with VTEX, NextJs/Typescript/Graphql
-- 📚 Studying a NextJS, React and VTEX
+- 💻 Working with Shopify/BigCommerce/VTEX, NextJs/Typescript/Graphql/Remix
+- 📚 Studying a Rust and BigCommerce
 - 🌌 Enthusiast web & mobile development technologies.
 - 💭 "There’s no shame in admitting what you don’t know. The only shame is pretending you know all the answers." ― Neil deGrasse Tyson
 
