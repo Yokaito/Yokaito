@@ -1,7 +1,4 @@
-<img align="right" width="400" height="400" src="https://github.com/user-attachments/assets/3c50e2b2-7f20-431b-8c5d-ab583a08e307">
-
-
-
+<img align="right" width="600" height="400" src="https://github.com/user-attachments/assets/d3a0e5c2-f354-4ced-8b1d-dd746e6d192a">
 
 
 ### I'm Guilherme Fontes 
