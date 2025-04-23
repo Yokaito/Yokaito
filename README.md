@@ -1,4 +1,7 @@
-<img align="right" width="400" height="400" src="https://hum-systems.com/site/templates/images/jobs/business_m.png">
+<img align="right" width="400" height="400" src="https://github.com/user-attachments/assets/3c50e2b2-7f20-431b-8c5d-ab583a08e307">
+
+
+
 
 
 ### I'm Guilherme Fontes 
